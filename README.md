@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/372171/profile-images/1666971690" width="200" height="200"><br>👋🏼 Olá, meu nome é Alice. <br>Gosto muito de jogar video games e estou dando meus primeiros passos na carreira de desenvolvedor.<br>
+👋🏼 Olá, meu nome é Alice. <br>Gosto muito de jogar video games e estou dando meus primeiros passos na carreira de desenvolvedor.<br>
 Estou aprendendo: react e react native
 <br>
 Plataforma de estudos: Alura
