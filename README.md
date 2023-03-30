@@ -3,6 +3,7 @@
 Estou aprendendo: react e react native
 <br>
 Plataforma de estudos: Alura
+Ciências da Computação: cursando
 </br>
 <br>
 🍷🗿 Caso queira trocar uma ideia, só ir no meu discord AliceKowai#3375<br>
