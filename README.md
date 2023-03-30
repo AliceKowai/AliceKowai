@@ -2,7 +2,7 @@
 👋🏼 Olá, meu nome é Alice. <br>Gosto muito de jogar video games e estou dando meus primeiros passos na carreira de desenvolvedor.<br>
 Estou aprendendo: react e react native
 <br>
-Plataforma de estudos: Alura
+Plataforma de estudos: Alura <br/>
 Ciências da Computação: cursando
 </br>
 <br>
