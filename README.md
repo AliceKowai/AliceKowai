@@ -5,7 +5,7 @@ Plataforma de estudos: Alura <br/>
 Estácio de Sá - Ciências da Computação: Cursando
 </br>
 <br>
-🍷🗿 Caso queira trocar uma ideia, só ir no meu discord AliceKowai<br>
+Caso queira trocar uma ideia, só ir no meu discord AliceKowai<br>
 🎮 Minha gamertag é AliceKowai (xboxlive)
 <br/>
 <table>
