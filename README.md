@@ -5,7 +5,6 @@
 - 💡 Curiosa e determinada a dominar o mundo do backend  
 - 💼 Em busca de oportunidades para aprender e contribuir com projetos reais  
 - ✍️ Estudando Ciência da Computação na Estácio de Sá  
-- ✨ Voluntária no Direito Animal do Brasil (DAB), onde aplico minhas novas habilidades tech em prol dos bichinhos 💕🐾
 
 ---
 
