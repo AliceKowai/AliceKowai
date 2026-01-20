@@ -1,5 +1,5 @@
 # 👋 Olá, eu sou a Alice!
-<img align="right" src="https://i.pinimg.com/originals/bc/70/ec/bc70ece3cfab9080aa8505e38e8e2350.gif" width="120"/>
+<img align="right" src="https://i.pinimg.com/originals/bc/70/ec/bc70ece3cfab9080aa8505e38e8e2350.gif" width="400"/>
 
 - 🎮 Gamer nas horas vagas e amante de tech o tempo todo  
 - 💡 Curiosa e determinada a dominar o mundo do backend  
