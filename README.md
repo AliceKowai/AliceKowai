@@ -46,7 +46,7 @@ Ferramentas <br> <img src="https://img.shields.io/badge/Git-F05032?style=for-the
 <a id="stats"></a>
 
 Estatísticas
-<!-- Troque "SEU-USUARIO" pelo seu usuário real do GitHub nas duas linhas abaixo --> <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&title_color=C2708C&icon_color=C2708C" height="170" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true&title_color=C2708C&hide=makefile" height="170" /> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AliceKowai&show_icons=true&theme=tokyonight&hide_border=true&title_color=C2708C&icon_color=C2708C" height="170" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliceKowai&layout=compact&theme=tokyonight&hide_border=true&title_color=C2708C&hide=makefile" height="170" /> </div>
 
 <a id="animes"></a>
 
@@ -73,7 +73,7 @@ Top Jogos Favoritos <sub></sub> <br> <img src="https://images.weserv.nl/?url=i.p
 <a id="contato"></a>
 
 Conecte-se Comigo
-<div align="center"> <a href="https://www.linkedin.com/in/alicecosta117"> <img src="https://img.shields.io/badge/LinkedIn-C2708C?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/SEU-USUARIO"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="mailto:devalice117@gmail.com"> <img src="https://img.shields.io/badge/Email-C2708C?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </div>
+<div align="center"> <a href="https://www.linkedin.com/in/alicecosta117"> <img src="https://img.shields.io/badge/LinkedIn-C2708C?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/AliceKowai"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="mailto:devalice117@gmail.com"> <img src="https://img.shields.io/badge/Email-C2708C?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </div>
 
 <br><br>
 
